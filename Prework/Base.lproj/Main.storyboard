@@ -70,24 +70,24 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <gestureRecognizers/>
                         <constraints>
-                            <constraint firstItem="1A7-MN-vmw" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="44" id="0fv-TS-dea"/>
-                            <constraint firstItem="lR6-yB-KCJ" firstAttribute="top" secondItem="kUw-eY-h0w" secondAttribute="bottom" constant="45" id="3bW-NT-rML"/>
-                            <constraint firstItem="FWn-wk-cRO" firstAttribute="leading" secondItem="aGB-Bd-SWs" secondAttribute="leading" id="5rR-mE-ZEJ"/>
-                            <constraint firstItem="wyW-DT-V1G" firstAttribute="leading" secondItem="FWn-wk-cRO" secondAttribute="leading" id="75G-om-kJt"/>
-                            <constraint firstItem="lR6-yB-KCJ" firstAttribute="leading" secondItem="6uF-Bf-hEj" secondAttribute="leading" id="BMc-LA-135"/>
-                            <constraint firstItem="kUw-eY-h0w" firstAttribute="centerX" secondItem="lR6-yB-KCJ" secondAttribute="centerX" id="J5j-AZ-c48"/>
-                            <constraint firstItem="1A7-MN-vmw" firstAttribute="leading" secondItem="wyW-DT-V1G" secondAttribute="leading" id="Qmx-Dh-1c2"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="lR6-yB-KCJ" secondAttribute="trailing" constant="48" id="Wdz-1V-fkC"/>
-                            <constraint firstItem="aGB-Bd-SWs" firstAttribute="baseline" secondItem="6uF-Bf-hEj" secondAttribute="baseline" id="XdG-a2-XxD"/>
-                            <constraint firstItem="wyW-DT-V1G" firstAttribute="firstBaseline" secondItem="lR6-yB-KCJ" secondAttribute="firstBaseline" id="eNh-ik-Rit"/>
-                            <constraint firstItem="FWn-wk-cRO" firstAttribute="top" secondItem="wyW-DT-V1G" secondAttribute="bottom" constant="52" id="iJB-Md-e5l"/>
-                            <constraint firstItem="1A7-MN-vmw" firstAttribute="centerY" secondItem="kUw-eY-h0w" secondAttribute="centerY" id="mQw-Rw-Cbw"/>
-                            <constraint firstItem="kUw-eY-h0w" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="nPi-gf-Hzg"/>
-                            <constraint firstItem="wyW-DT-V1G" firstAttribute="top" secondItem="1A7-MN-vmw" secondAttribute="bottom" constant="51" id="pWI-7C-aeA"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="aGB-Bd-SWs" secondAttribute="bottom" constant="531" id="tgd-Jd-Nh6"/>
-                            <constraint firstItem="kUw-eY-h0w" firstAttribute="trailing" secondItem="FWn-wk-cRO" secondAttribute="trailing" id="vMb-fy-n1y"/>
-                            <constraint firstItem="1A7-MN-vmw" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="vjf-7S-rbq"/>
-                            <constraint firstItem="aGB-Bd-SWs" firstAttribute="top" secondItem="FWn-wk-cRO" secondAttribute="bottom" constant="46" id="wkX-xl-pZj"/>
+                            <constraint firstItem="lR6-yB-KCJ" firstAttribute="leading" secondItem="6uF-Bf-hEj" secondAttribute="leading" id="3kT-S5-J4M"/>
+                            <constraint firstItem="kUw-eY-h0w" firstAttribute="trailing" secondItem="FWn-wk-cRO" secondAttribute="trailing" id="BbW-ns-NNC"/>
+                            <constraint firstItem="wyW-DT-V1G" firstAttribute="leading" secondItem="FWn-wk-cRO" secondAttribute="leading" id="CqJ-Ww-NDV"/>
+                            <constraint firstItem="kUw-eY-h0w" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="PxD-fy-x89"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="lR6-yB-KCJ" secondAttribute="trailing" constant="48" id="QxD-mf-Sbk"/>
+                            <constraint firstItem="1A7-MN-vmw" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="44" id="U9m-0l-twL"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="aGB-Bd-SWs" secondAttribute="bottom" constant="531" id="WZt-fp-Xt0"/>
+                            <constraint firstItem="FWn-wk-cRO" firstAttribute="top" secondItem="wyW-DT-V1G" secondAttribute="bottom" constant="52" id="YdR-aE-uzY"/>
+                            <constraint firstItem="aGB-Bd-SWs" firstAttribute="baseline" secondItem="6uF-Bf-hEj" secondAttribute="baseline" id="adn-Ji-sGI"/>
+                            <constraint firstItem="wyW-DT-V1G" firstAttribute="firstBaseline" secondItem="lR6-yB-KCJ" secondAttribute="firstBaseline" id="eUX-kQ-Wk9"/>
+                            <constraint firstItem="1A7-MN-vmw" firstAttribute="centerY" secondItem="kUw-eY-h0w" secondAttribute="centerY" id="fAb-NB-YUz"/>
+                            <constraint firstItem="aGB-Bd-SWs" firstAttribute="top" secondItem="FWn-wk-cRO" secondAttribute="bottom" constant="46" id="gXg-LS-ROu"/>
+                            <constraint firstItem="FWn-wk-cRO" firstAttribute="leading" secondItem="aGB-Bd-SWs" secondAttribute="leading" id="hZU-Kt-ahB"/>
+                            <constraint firstItem="lR6-yB-KCJ" firstAttribute="top" secondItem="kUw-eY-h0w" secondAttribute="bottom" constant="45" id="jsY-jW-5J6"/>
+                            <constraint firstItem="1A7-MN-vmw" firstAttribute="leading" secondItem="wyW-DT-V1G" secondAttribute="leading" id="rNJ-5Y-wRQ"/>
+                            <constraint firstItem="1A7-MN-vmw" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="rtx-4h-Mdk"/>
+                            <constraint firstItem="kUw-eY-h0w" firstAttribute="centerX" secondItem="lR6-yB-KCJ" secondAttribute="centerX" id="vch-pn-Ab4"/>
+                            <constraint firstItem="wyW-DT-V1G" firstAttribute="top" secondItem="1A7-MN-vmw" secondAttribute="bottom" constant="51" id="yeq-99-4Vn"/>
                         </constraints>
                     </view>
                     <connections>
